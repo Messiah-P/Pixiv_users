@@ -1,11 +1,7 @@
-#import xlwt as xlwt
-#from HTMLParser import HTMLParser
 import requests
-
 import Deduplicate
 from DataOutPut import DataOutPut
 from Search import User
-#from Search import Tags
 import MultiThreadDownload
 import numpy as np
 import xlrd
